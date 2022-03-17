@@ -349,7 +349,8 @@ function myfunc_10() {
 	}
 }
 
-function myfunc_11() {
+function myfunc_11() 
+{
 	if (flag == 1) {
 		document.getElementById("b9").value = "X";
 		document.getElementById("b9").disabled = true;
